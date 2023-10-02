@@ -11,5 +11,5 @@
 
 Distributed under the GNU General Public License v3.0. See `LICENSE` for more information.
 
-[license-shield]: https://img.shields.io/github/license/gurraoptimus/time.svg?-style=flat-square
+[license-shield]: https://img.shields.io/github/license/gurraoptimus/gurraoptimus.svg?-style=flat-square
 [license-url]: https://github.com/gurraoptimus/time/blob/main/LICENSE
