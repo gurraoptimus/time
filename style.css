@@ -17,5 +17,6 @@ body{
     border-radius: 50%;
 }
 .number-hours{
+    position: absolute;
     
 }
