@@ -22,3 +22,6 @@ body{
     background: purple;
     border-radius: 50%;
 }
+.number-hours span p{
+    font-size: 52px;
+}
