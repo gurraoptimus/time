@@ -31,6 +31,7 @@ body{
 }
 .number-hours span p{
     font-size: 52px;
-    color: aqua;
+    color: #0ef;
+    text-shadow: 0 0 10px #0ef;
     transform: rotate(calc(var(--index) *-30deg));
 }
