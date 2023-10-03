@@ -38,6 +38,9 @@ body{
 }
 .hands-box{
     position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .hands-box .hand{
     position: absolute;
