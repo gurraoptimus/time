@@ -37,5 +37,9 @@ body{
     transform: rotate(calc(var(--index) *-30deg));
 }
 .hands-box{
-    
+    position: relative;
+}
+.hands-box .hours{
+    width: 320px;
+    height: 320px;
 }
