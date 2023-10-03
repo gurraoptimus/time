@@ -50,11 +50,11 @@ body{
 }
 .hands-box .minutes{
     width: 450px;
-    height: 320px;
+    height: 450px;
     border: 2px solid yellow;
 }
 .hands-box .seconds{
     width: 480px;
-    height: 450px;
+    height: 480px;
     border: 2px solid white;
 }
