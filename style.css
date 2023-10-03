@@ -18,5 +18,8 @@ body{
 }
 .number-hours{
     position: absolute;
-    
+    width: 100%;
+    height: 100%;
+    background: purple;
+    border-radius: 50%;
 }
