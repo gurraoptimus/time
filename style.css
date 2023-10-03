@@ -36,3 +36,6 @@ body{
     text-shadow: 0 0 10px #FDA9DC;
     transform: rotate(calc(var(--index) *-30deg));
 }
+.hands-box{
+    
+}
