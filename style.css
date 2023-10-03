@@ -22,6 +22,9 @@ body{
     background: purple;
     border-radius: 50%;
 }
+.number-hours span{
+    position: absolute;
+}
 .number-hours span p{
     font-size: 52px;
 }
