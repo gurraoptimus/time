@@ -27,6 +27,7 @@ body{
     /*360deg /12 = 30deg*/
     transform: rotate(calc(var(--index) *30deg));
     inset: 6px;
+    text-align: center;
 }
 .number-hours span p{
     font-size: 52px;
