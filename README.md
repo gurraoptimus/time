@@ -13,11 +13,7 @@
                   ##########################################
                   ##Written by {G}urra Optimus Development##
                   ##########################################
-
-                    \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-                    \\\{G}urra Optimus Development\\
-                    \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-
+                  
 Distributed under the GNU General Public License v3.0. See `LICENSE` for more information.
 
 [license-shield]: https://img.shields.io/github/license/gurraoptimus/gurraoptimus.svg?-style=flat-square
