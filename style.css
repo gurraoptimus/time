@@ -49,6 +49,9 @@ body{
     position: absolute;
     border-radius: 50%;
 }
+.hands-box.hand i{
+    
+}
 .hands-box .hours{
     width: 320px;
     height: 320px;
@@ -56,6 +59,8 @@ body{
 }
 .hands-box .hours i{
     width: 8px;
+    height: 160px;
+    background: red;
 }
 .hands-box .minutes{
     width: 450px;
