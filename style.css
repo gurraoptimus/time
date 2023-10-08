@@ -79,6 +79,7 @@ body{
     width: 25px;
     height: 25px;
     background: #FDA9DC;
+    transform: translateY(-50%);
 }
 
 .hands-box .minutes i{
