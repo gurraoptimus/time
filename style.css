@@ -50,7 +50,7 @@ body{
     border-radius: 50%;
 }
 .hands-box.hand i{
-    
+    display: inline-block;
 }
 .hands-box .hours{
     width: 320px;
@@ -59,6 +59,7 @@ body{
 }
 .hands-box .hours i{
     width: 8px;
+    /*half of parent height*/
     height: 160px;
     background: red;
 }
@@ -66,6 +67,12 @@ body{
     width: 450px;
     height: 450px;
     border: 2px solid yellow;
+}
+.hands-box .hours i{
+    width: 8px;
+    /*half of parent height*/
+    height: 160px;
+    background: red;
 }
 .hands-box .seconds{
     width: 480px;
