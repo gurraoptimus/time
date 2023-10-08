@@ -76,7 +76,7 @@ body{
     /*half of parent height*/
     height: 225px;
     background: yellow;
-    transform: rotate(30deg);
+    transform: rotate(210deg);
 }
 .hands-box .seconds{
     width: 480px;
@@ -88,5 +88,5 @@ body{
     /*half of parent height*/
     height: 240px;
     background: white;
-    transform: rotate(30deg);
+    transform: rotate(150deg);
 }
