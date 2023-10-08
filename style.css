@@ -48,6 +48,8 @@ body{
 .hands-box .hand{
     position: absolute;
     border-radius: 50%;
+    display: flex;
+    justify-content: center;
 }
 .hands-box .hand i{
     display: inline-block;
