@@ -64,6 +64,7 @@ body{
     /*half of parent height*/
     height: 160px;
     background: red;
+    transform: rotate(30deg);
 }
 .hands-box .minutes{
     width: 450px;
@@ -75,6 +76,7 @@ body{
     /*half of parent height*/
     height: 225px;
     background: yellow;
+    transform: rotate(30deg);
 }
 .hands-box .seconds{
     width: 480px;
@@ -86,4 +88,5 @@ body{
     /*half of parent height*/
     height: 240px;
     background: white;
+    transform: rotate(30deg);
 }
