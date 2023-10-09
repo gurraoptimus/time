@@ -104,7 +104,7 @@ body{
     height: 20px;
     background: #fff;
     border-radius: 50%;
-    box-shadow: 0 0 5px #FDA9DC;
+    box-shadow: 0 0 2px rgba(0,0,0, .5);
 }
 .hands-box .seconds i{
     width: 4px;
