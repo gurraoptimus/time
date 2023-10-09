@@ -55,6 +55,7 @@ body{
     display: inline-block;
     transform-origin: bottom;
     border-radius: 50%;
+    box-shadow:0 0 10px #FDA9DC;
 }
 .hands-box .hours{
     width: 320px;
@@ -113,4 +114,5 @@ body{
     /*half of parent height*/
     height: calc(240px + 70px);
     background: white;
+    box-shadow: none;
 }
