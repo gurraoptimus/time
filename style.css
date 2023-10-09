@@ -76,12 +76,13 @@ body{
     content: "";
     position: absolute;
     top: 50%;
+    transform: translateY(-50%);
     width: 25px;
     height: 25px;
     background: #FDA9DC;
-    transform: translateY(-50%);
+    border-radius: 50%;
+    box-shadow: 0 0 5px #FDA9DC;
 }
-
 .hands-box .minutes i{
     width: 8px;
     /*half of parent height*/
@@ -92,6 +93,18 @@ body{
 .hands-box .seconds{
     width: 480px;
     height: 480px;
+}
+/*center dot top*/
+.hands-box .seconds::before{
+    content: "";
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 20px;
+    height: 20px;
+    background: #fff;
+    border-radius: 50%;
+    box-shadow: 0 0 5px #FDA9DC;
 }
 .hands-box .seconds i{
     width: 4px;
