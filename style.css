@@ -88,7 +88,7 @@ body{
     width: 8px;
     /*half of parent height*/
     height: 225px;
-    background: yellow;
+    background: #FDA9DC;
 }
 .hands-box .seconds{
     width: 480px;
