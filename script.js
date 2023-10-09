@@ -18,5 +18,5 @@ numberHours.insertAdjacentHTML("afterbegin", numberElemnt.join(""));
 //////////////////////
 
 for (let i= 1; i <= 60; i++){
-    numberElemnt.push(`<span style="--index:${i};"><p>${i}</p></span>`);
+    barElemnt.push(`<span style="--index:${i};"><p>${i}</p></span>`);
 }
