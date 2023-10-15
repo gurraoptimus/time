@@ -21,7 +21,6 @@ body{
     align-items: center;
 }
 .bar-seconds,
-
 .number-hours{
     position: absolute;
     width: 100%;
@@ -29,6 +28,7 @@ body{
     border-radius: 50%;
 }
 .bar-seconds span p{
+    display: inline-block;
     width: 2px;
     height: 12px;
     background: #FDA9DC;
