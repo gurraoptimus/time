@@ -30,6 +30,9 @@ body{
 }
 .bar-seconds span p{
     width: 2px;
+    height: 12px;
+    background: #FDA9DC;
+    
 }
 
 .number-hours span{
