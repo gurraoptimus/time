@@ -29,8 +29,9 @@ body{
 }
 .bar-seconds span {
     position: absolute;
-    
-    transform: rotate(calc(var(--index) *30deg));
+    /*360deg / 60 = 6deg*/
+    transform: rotate(calc(var(--index) *6deg));
+    inset: -20px;
 }
 .bar-seconds span p{
     display: inline-block;
