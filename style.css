@@ -32,7 +32,7 @@ body{
     /*360deg / 60 = 6deg*/
     transform: rotate(calc(var(--index) *6deg));
     inset: -20px;
-    align-items: center;
+    text-align: center;
 }
 .bar-seconds span p{
     display: inline-block;
