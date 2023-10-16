@@ -27,8 +27,10 @@ body{
     height: 100%;
     border-radius: 50%;
 }
-.bar-seconds span{
+.bar-seconds span {
     position: absolute;
+    
+    transform: rotate(calc(var(--index) *30deg));
 }
 .bar-seconds span p{
     display: inline-block;
