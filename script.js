@@ -32,5 +32,5 @@ function getCurrentTime(){
     let CurrentMinutes = date.getMinutes();
     let CurrentSeconds = date.getSeconds();
     
-    handSeconds
+    handSeconds.Style.t
 }
