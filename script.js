@@ -21,3 +21,5 @@ for (let i= 1; i <= 60; i++){
     barElemnt.push(`<span style="--index:${i};"><p></p></span>`);
 }
 barseconds.insertAdjacentHTML("afterbegin", barElemnt.join(""));
+
+const handHours=document.querySelector(".")
