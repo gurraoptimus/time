@@ -38,4 +38,5 @@ function getCurrentTime(){
 ///////////////////////////////////////////////
 //call getCurrentTime function on page load///
 /////////////////////////////////////////////
-getCurrentTime();
+
+getCurrentTime(currentSeconds);
