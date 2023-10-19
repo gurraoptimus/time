@@ -45,6 +45,8 @@ body{
 .bar-seconds span:nth-child(5n) p{
     background: red;
     width: 6px;
+    height: 18px;
+    transform: translateY(1px);
 }
 .number-hours span{
     position: absolute;
