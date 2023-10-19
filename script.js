@@ -22,4 +22,11 @@ for (let i= 1; i <= 60; i++){
 }
 barseconds.insertAdjacentHTML("afterbegin", barElemnt.join(""));
 
-const handHours=document.querySelector(".handhours");
+const handHours=document.querySelector(".hand.hours");
+const handMinutes=document.querySelector(".hand.minutes");
+const handSeconds=document.querySelector(".hand.seconds");
+
+function getCurrentTime(){
+    let date = new Date();
+    
+}
