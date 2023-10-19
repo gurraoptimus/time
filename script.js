@@ -32,7 +32,7 @@ function getCurrentTime(){
     let CurrentMinutes = date.getMinutes();
     let CurrentSeconds = date.getSeconds();
     
-    handSeconds.Style.transform = 'rotate(${currentSeconds * 6}deg)';
+    handSeconds.Style.transform = `rotate(${currentSeconds * 6}deg)`;
 }
 
 ///////////////////////////////////////////////
