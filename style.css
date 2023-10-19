@@ -41,7 +41,11 @@ body{
     background: #FDA9DC;
     
 }
-
+/*Sn = every multiple of 5*/
+.bar-seconds span:nth-child(5n) p{
+    background: red;
+    width: 6px;
+}
 .number-hours span{
     position: absolute;
     /*360deg /12 = 30deg*/
