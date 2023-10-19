@@ -83,7 +83,6 @@ body{
 .hands-box .hours{
     width: 320px;
     height: 320px;
-    transform: rotate(40deg);
 }
 .hands-box .hours i{
     width: 8px;
@@ -94,7 +93,6 @@ body{
 .hands-box .minutes{
     width: 450px;
     height: 450px;
-    transform: rotate(230deg);
 }
 /*center dot bottom*/
 .hands-box .minutes::before{
