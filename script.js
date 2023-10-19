@@ -22,4 +22,4 @@ for (let i= 1; i <= 60; i++){
 }
 barseconds.insertAdjacentHTML("afterbegin", barElemnt.join(""));
 
-const handHours=document.querySelector(".");
+const handHours=document.querySelector(".handhours");
