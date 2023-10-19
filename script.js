@@ -28,15 +28,16 @@ const handSeconds=document.querySelector(".hand.seconds");
 
 function getCurrentTime(){
     let date = new Date();
-    let CurrentHours = date.getHours();
-    let CurrentMinutes = date.getMinutes();
-    let CurrentSeconds = date.getSeconds();
+    let currentHours = date.getHours();
+    let currentMinutes = date.getMinutes();
+    let currentSeconds = date.getSeconds();
     
-    handSeconds.Style.transform = `rotate(${currentSeconds * 6}deg)`;
+    handSeconds.Style.transform = `rotate(${currentSeconds 
+        * 6}deg)`;
 }
 
 ///////////////////////////////////////////////
 //call getCurrentTime function on page load///
 /////////////////////////////////////////////
 
-getCurrentTime(currentSeconds);
+getCurrentTime();
