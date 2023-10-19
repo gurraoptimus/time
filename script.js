@@ -28,5 +28,7 @@ const handSeconds=document.querySelector(".hand.seconds");
 
 function getCurrentTime(){
     let date = new Date();
-    
+    let CurrentHours = date.getHours();
+    let CurrentHours = date.getHours();
+    let CurrentHours = date.getHours();
 }
